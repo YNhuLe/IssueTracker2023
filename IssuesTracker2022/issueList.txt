@@ -1,0 +1,12 @@
+1[The monitor]June 21, 2022[THe monitor is not working properly]Jenny[Assigned]Anna
+2[The main code]July 12, 2022[The HashTable in the main code can not store the input from users]Jenny[Assigned]Anna
+3[ChoiceBox]July 14, 2022[Null pointer Exception from the ChoiceBox]null[Assigned]Jenny
+4[The add new user function.]July 23, 2022[The add new user code does not work properly.]Nick[Assigned]Jenny
+5[Log in issue]August 23, 2022[One of the user can not log in in the system.]Nick[Assigned]Jenny
+6[Assigning task function]July 23, 2022[The manager can not assign the task to developers.]Nick[Assigned]Anna
+7[Assign issue]July 23, 2022[THe manager can not assign new issue to developer.]Nick[Assigned]Anna
+8[The new issue]July 13, 2022[Some of the new issues can not be assigned to developers.]Nick[Assigned]Olivia
+9[Project is being delayed]June 20 , 2022[Developers need more time to workn on the third project.]Nick[New]
+10[The issue]June 23, 2022[The issue.]Nick[New]
+11[New issue about the login]July 23, 2022[Manager sometimes can not log in.]Nick[New]
+12[The keyboard issue]Jan 02[The keyboard does not work properly.]Nick[New]
