@@ -10,3 +10,4 @@
 10[The issue]June 23, 2022[The issue.]Nick[New]
 11[New issue about the login]July 23, 2022[Manager sometimes can not log in.]Nick[New]
 12[The keyboard issue]Jan 02[The keyboard does not work properly.]Nick[New]
+13[The Wifi]Jan 20, 2023[Need to double-check]Nick[New]
